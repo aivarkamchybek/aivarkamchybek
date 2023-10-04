@@ -33,7 +33,7 @@ BSc CS @ North American University
 <a href="https://leetcode.com/aivar99/" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="32" height="32" /></a></p>
 
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aivarkamchybek=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aivarkamchybek)](https://git.io/streak-stats)
 
 
 <a href="http://www.github.com/aivarkamchybek"><img src="https://github-readme-stats.vercel.app/api?username=aivarkamchybek&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="AivarKamchybek's GitHub stats" /></a>
