@@ -35,6 +35,9 @@ BSc CS @ North American University
 <a href="https://www.linkedin.com/in/aivar-kamchybek-uulu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://leetcode.com/aivar99/" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="32" height="32" /></a></p>
 
+
+<img align="center" alt="Coding" width="500" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aivarkamchybek&theme=dark)](https://git.io/streak-stats)
 
