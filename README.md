@@ -26,7 +26,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aivarkamchybek&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aivarkamchybek&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aivarkamchybek&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=0891b2" alt="Top languages"/>
 </p>
 
@@ -36,19 +36,13 @@
 
 ---
 
-### 📈 Contributions (Last 31 Days)
+### 🐍 Contribution Snake
 
+<!-- Uncomment AFTER the snake workflow has run once (see snake.yml)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aivarkamchybek&theme=tokyo-night&hide_border=true&area=true&custom_title=Commits%20%26%20Contributions%20-%20Last%2031%20Days" alt="Contribution activity graph"/>
+  <img src="https://raw.githubusercontent.com/aivarkamchybek/aivarkamchybek/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aivarkamchybek&theme=onedark&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</p>
+-->
 
 ---
 
